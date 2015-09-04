@@ -1,0 +1,5 @@
+[04-Sep-2015 12:23:20 Europe/Berlin] 0::archive.inc:411: touch(): Utime failed: Operation not permitted
+[04-Sep-2015 12:24:52 Europe/Berlin] 0::session.inc:401: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[04-Sep-2015 12:24:52 Europe/Berlin] 0::session.inc:401: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[04-Sep-2015 12:25:07 Europe/Berlin] 0::session.inc:401: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[04-Sep-2015 12:25:07 Europe/Berlin] 0::session.inc:401: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
